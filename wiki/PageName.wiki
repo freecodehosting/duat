@@ -1,5 +1,4 @@
-#summary One-sentence summary of this page.
-Short help
+#summary One-Short help
 = Introduction =
 
 this is a stub for a proper documentation. Please have a look into the perl-file for more options
